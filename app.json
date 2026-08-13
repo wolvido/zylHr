@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "zyl-HR",
+    "name": "ZylHR Demo",
     "slug": "zyl-HR",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "platforms": ["web"],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
